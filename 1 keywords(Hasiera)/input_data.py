@@ -84,6 +84,10 @@ keywords = {
     "formaciones": "request_oferta",
     "estudios": "request_oferta",
 
+    "metodologia": "request_metodologia",
+    "como": "request_metodologia",
+    "trabajos": "request_metodologia",
+    "modelo": "request_metodologia",
 }
 
 
@@ -101,6 +105,7 @@ answer = {
     "request_contacto_tfno": "Eskolaren telefono zenbakia 943899214 da",
     "request_matrikula_mota": "Zein interesatzen zaizu, inskripzioa edo aurreinskripzioa?",
 
+    "request_metodologia": "Plaiaundi LHII institutuan Ethazi eredua erabiltzen dugu, gure ikasleek bizitza errealeko arazoak ebazten ikusten ditzaket",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
