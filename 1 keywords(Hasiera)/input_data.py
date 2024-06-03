@@ -32,9 +32,10 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripcion": "request_pre_matricula",
-    "inscribirme": "request_pre_matricula",
-    "inscribir": "request_pre_matricula",
+    
+    "inscripcion": "request_matrikula_mota",
+    "inscribirme": "request_matrikula_mota",
+    "inscribir": "request_matrikula_mota",
     
 
     "matricula" : "request_matricula",
@@ -45,24 +46,25 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
-    "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
-    "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
-    "correo": "request_contacto",
-    "electronico": "request_contacto",
-    "gmail": "request_contacto",
-    "hotmail": "request_contacto",
-    "g-mail": "request_contacto",
-    "mail": "request_contacto",
-      
+
+    "telefono": "request_contacto_tfno",
+    "tlfno": "request_contacto_tfno",
+    "tlfn": "request_contacto_tfno",
+    "llamar": "request_contacto_tfno",
+    "llamada": "request_contacto_tfno",
+
+    "e-mail": "request_contacto_email",
+    "email": "request_contacto_email",
+    "correo": "request_contacto_email",
+    "electronico": "request_contacto_email",
+    "gmail": "request_contacto_email",
+    "hotmail": "request_contacto_email",
+    "g-mail": "request_contacto_email",
+    "mail": "request_contacto_email",
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -90,6 +92,11 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com Dirección/Localización: XXXXXX",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
+
+    "request_contacto_email": "Eskolaren emaila info@plaiaundi.eus da",
+    "request_contacto_tfno": "Eskolaren telefono zenbakia 943899214 da",
+    "request_matrikula_mota": "Zein interesatzen zaizu, inskripzioa edo aurreinskripzioa?",
+
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
