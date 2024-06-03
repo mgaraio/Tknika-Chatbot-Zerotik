@@ -5,13 +5,14 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
-    
+    "kaixo": "request_saludo",
 
     "adios": "request_despedida",
     "hasta": "request_despedida",
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    "aio": "request_despedida",
 
  
     "horario": "request_contacto_horarios",
@@ -20,7 +21,8 @@ keywords = {
     "abierta": "request_contacto_horarios",
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
-
+    "horas": "request_contacto_horarios",
+    "cuando": "request_contacto_horarios",
 
     "prematricula" : "request_pre_matricula",
     "pre-matricula": "request_pre_matricula",
@@ -50,6 +52,8 @@ keywords = {
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
+    "donde": "request_contacto",
+
 
     "telefono": "request_contacto_tfno",
     "tlfno": "request_contacto_tfno",
@@ -78,7 +82,7 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
-    
+    "estudios": "request_oferta",
 
 }
 
